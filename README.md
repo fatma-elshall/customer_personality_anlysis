@@ -9,14 +9,28 @@ Customer Personality Analysis is a detailed analysis of a company’s ideal cust
 Customer personality analysis helps a business to modify its product based on its target customers from different types of customer segments. For example, instead of spending money to market a new product to every customer in the company’s database, a company can analyze which customer segment is most likely to buy the product and then market the product only on that particular segment.
 ![newplot (3)](https://github.com/fatma-elshall/customer_personality_anlysis/assets/90958050/9908dd9c-1f24-4ba0-84ba-e2efdb8c0a2a)
 
-using heat map we visualize the correlation between features which from it we deduced the intersts of customers.
-![image](https://github.com/fatma-elshall/customer_personality_anlysis/assets/90958050/f0ad3831-c46b-4964-8107-bbf4a695bf3b)
-
 
 
 **Target of this project**
 
 We need to perform clustering to summarize customer segments.
+
+
+using heat map we visualize the correlation between features which from it we deduced the intersts of customers.
+![image](https://github.com/fatma-elshall/customer_personality_anlysis/assets/90958050/f0ad3831-c46b-4964-8107-bbf4a695bf3b)
+
+from this map we can deduce:
+
+*wines is the top in money spent after it the meat .
+
+*they are followed by fish with 64%
+
+*then sweet and fruits are equal with 61%
+
+*and finally the gold with 53% .
+
+
+
 
 **results of project**
 
