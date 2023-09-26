@@ -16,6 +16,8 @@ Customer personality analysis helps a business to modify its product based on it
 We need to perform clustering to summarize customer segments.
 
 
+**some analysis**
+
 using heat map we visualize the correlation between features which from it we deduced the intersts of customers.
 ![image](https://github.com/fatma-elshall/customer_personality_anlysis/assets/90958050/f0ad3831-c46b-4964-8107-bbf4a695bf3b)
 
